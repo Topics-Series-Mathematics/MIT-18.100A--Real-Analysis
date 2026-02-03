@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://topics-series-mathematics.github.io/MIT-18.100A--Real-Analysis">
-    <img src=".github/readme/hero.svg?v=2026-02-03T00:12:53.467600Z" width="100%" alt="Access the course website" />
+  <a href="https://topics-series-mathematics.github.io/MIT-18.100A--Real-Analysis?utm_source=MIT-18.100A--Real-Analysis&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T00:46:37.274743Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
